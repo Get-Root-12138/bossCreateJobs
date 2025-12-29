@@ -11,4 +11,4 @@ mybatis:
     map-underscore-to-camel-case: true
 
 
-##   get_token  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
+token: ${GITHUB_TOKEN}   # 用环境变量占位

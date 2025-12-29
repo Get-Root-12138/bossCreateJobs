@@ -14,7 +14,5 @@ public class BigEvent01Application
     public static void main( String[] args )
     {
         SpringApplication.run(BigEvent01Application.class,args);
-        System.out.println("aa");
-        System.out.println("bb");
     }
 }
